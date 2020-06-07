@@ -24,6 +24,7 @@ class Main extends PluginBase implements Listener{
                 if ($sender instanceof Player) {
                     if (!isset($args[0])) {
                         if (!$sender->hasPermission("cc.use")) {
+			return true;
                 $senderName = $sender->getName();
 		$this->getServer()->broadcastMessage("");
 		$this->getServer()->broadcastMessage("");
