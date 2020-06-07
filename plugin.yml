@@ -1,9 +1,9 @@
-name: ClanInter
-main: Kay313\ClanInter\Main
+name: CearChat
+main: Kay313\ClearChat\Main
 author: Kay313
 api: 3.0.0
 version: 1.0.0
 commands:
-  c:
-    description: Öffne das Clan Menü
+  cc:
+    description: Clear the Serverchat
   
