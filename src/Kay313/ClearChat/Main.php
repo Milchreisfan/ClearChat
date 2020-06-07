@@ -16,7 +16,7 @@ class Main extends PluginBase implements Listener{
         $this->getServer()->getLogger()->info("ClearChat enabled");
     } 
     public function onDisable(){
-	      $this->getServer()->getLogger()->info("ClearChat disabled");
+	$this->getServer()->getLogger()->info("ClearChat disabled");
     }
 
     public function onCommand(CommandSender $sender, Command $command, string $label, array $args): bool {
