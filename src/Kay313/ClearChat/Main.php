@@ -27,7 +27,7 @@ class Main extends PluginBase{
                         if (!$sender->hasPermission("cc.use")) {
                             return true;
                         } else {
-	$this->getServer()->broadcastMessage("§l§cDer Chat wird nun gecleart");
+	$this->getServer()->broadcastMessage("§l§cThe Chat will now be deleted");
 	$this->getServer()->broadcastMessage("§r");
 	$this->getServer()->broadcastMessage("§r");
 	$this->getServer()->broadcastMessage("§r");
@@ -241,7 +241,7 @@ class Main extends PluginBase{
 	$this->getServer()->broadcastMessage("§r");
 	$this->getServer()->broadcastMessage("§r");
 	$this->getServer()->broadcastMessage("§r");
-	$this->getServer()->broadcastMessage("§l§cDer Chat wurde gecleart");
+	$this->getServer()->broadcastMessage("§l§cThe Chat was deleted");
        }
       }
      return true;
