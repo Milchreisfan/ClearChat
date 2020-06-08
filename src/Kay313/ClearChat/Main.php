@@ -12,10 +12,10 @@ use pocketmine\plugin\PluginBase;
 
 class Main extends PluginBase{
 
-	public function onEnable() : void{
+	public function onEnable(){
 		$this->getLogger()->info("ClearChat enabled!");
 	}
-	public function onDisable() : void{
+	public function onDisable(){
 		$this->getLogger()->info("ClearChat disabled!");
 	}
 
