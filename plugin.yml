@@ -1,0 +1,6 @@
+name: ClearChat
+version: 2.0.0
+api: 4.0.0
+main: Kay313\ClearChat\Main
+author: Kay313 & Milchreisfan
+description: A simple chatclear plugin for pocketmine
