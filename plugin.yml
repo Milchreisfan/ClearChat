@@ -1,9 +1,0 @@
-name: ClearChat
-main: Kay313\ClearChat\Main
-author: Kay313
-api: 3.21.0
-version: 1.0.0
-commands:
-  cc:
-    description: Clear the Serverchat
-  
