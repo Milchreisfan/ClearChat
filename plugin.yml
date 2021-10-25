@@ -2,7 +2,7 @@ name: ClearChat
 main: Kay313\ClearChat\Main
 author: Kay313
 api: 4.0.0
-version: 1.0.0
+version: 1.0.0-PM4
 commands:
   cc:
     description: Clear the Serverchat
