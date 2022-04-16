@@ -1,3 +1,5 @@
+## DOESN'T GET UPDATES ANYMORE ## (Maybe in the future again...)
+
 # ***__ClearChat__***
 
 > WARNING:
